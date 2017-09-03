@@ -12,19 +12,19 @@ Whatever Nick & Becca want to offer.
 ## Two Truths and a Lie
 
 ## My LinkedIn
-[Here!](coming soon)
+https://www.linkedin.com/in/roxann-lopez-442274147/
 
 ## Meetups I've attended:
-1. 
+1. Denver Scripts
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 I want to work for a small'ish company.  Coming from an international firm, I've learned I do not want to be in corporate america or big firm. Also, somewhere a little more relaxed than professional business would be nice.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I don't really know at this point but I think I want to be in a role that is versatile where I can do front and back with a goal of doing all back end. 
+At this point, I'm leaning towards front end but with time still want something that is versatile where I can do front and back with a goal of doing all back end. Or SQL; that is fun and organized.  
 
 ## Link to my resume: 
-
+file:///Users/roxannnlopez/Downloads/Roxann%20Lopez.pdf
 
 ## Link to my portfolio website: 
 
