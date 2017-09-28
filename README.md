@@ -25,7 +25,8 @@ I want to work for a small'ish company.  Coming from an international firm, I've
 I'm leaning towards front end but with time still want something that is versatile where I can do front and back with a goal of doing all back end. Or SQL; that is fun and organized.  
 
 ## Link to my resume: 
-file:///Users/roxannnlopez/Downloads/Roxann%20Lopez.pdf
+https://www.canva.com/design/DACch79M04k/UartbRjQssuF7SRVdu6z6w/view?utm_content=DACch79M04k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## Link to my portfolio website: 
+http://www.roxannlopez.com/
 
